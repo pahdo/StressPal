@@ -1,0 +1,21 @@
+GetNewFactIntent stress
+GetNewFactIntent im stressed
+GetNewFactIntent stressed
+GetNewFactIntent i am stressed
+GetNewFactIntent i am stress
+GetNewFactIntent anxious
+GetNewFactIntent im anxious
+GetNewFactIntent anxiety
+GetNewFactIntent i am anxious
+GetNewFactIntent i am anxiety
+GetNewFactIntent i have anxiety
+GetNewFactIntent help me
+GetNewFactIntent help
+GetNewFactIntent Im overwhelmed
+GetNewFactIntent overwhelmed
+GetNewFactIntent overwhelm
+GetNewFactIntent Im overwhelmed
+GetNewFactIntent I need help
+GetNewFactIntent Help me relax
+GetNewFactIntent I need to relax
+GetNewFactIntent relax
